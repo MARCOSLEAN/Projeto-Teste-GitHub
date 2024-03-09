@@ -1,2 +1,3 @@
-Este projeto é um teste de uso do GitHub.
+Aprendendo a usar o GitHub.
+Este é só um projeto teste.
 Aqui eu fiz uma alteração neste arquivo.
